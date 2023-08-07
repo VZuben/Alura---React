@@ -1,0 +1,32 @@
+[
+    {
+      "label": "Ação/Aventura",
+      "label2": "AcaoAventura",
+      "id": 1
+    },
+    {
+      "label": "Comédia",
+      "label2": "Comedia",
+      "id": 2
+    },
+    {
+      "label": "Comédia Romântica",
+      "label2": "ComediaRomantica",
+      "id": 3
+    },
+    {
+      "label": "Drama",
+      "label2": "Drama",
+      "id": 4
+    },
+    {
+      "label": "Slice of Life",
+      "label2": "SliceOfLife",
+      "id": 5
+    },
+    {
+      "label": "Esportes",
+      "label2": "Esportes",
+      "id": 6
+    }
+  ]

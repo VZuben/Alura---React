@@ -1,0 +1,79 @@
+@import "styles/variaveis";
+
+
+.anime {
+  display: flex;
+  width: 100%;
+  background-color: #41007b;
+  border-radius: 50px;
+  &__imagem {
+    min-width: 240px;
+    img {
+      border-radius: 8px;
+      width: 100%;
+    }
+  }
+  &__descricao {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 0 20px;
+  }
+  &__titulo {
+    h2 {
+      color: #ffffff;
+      font-size: 2rem;
+      margin-bottom: 20px;
+      max-width: 700px;
+    }
+    p {
+      color: $grey;
+      font-size: 1.3rem;
+      font-weight: 400;
+      max-width: 700px;
+      margin-bottom: 20px;
+    }
+  }
+  &__tags {
+    display: flex;
+    margin-bottom: 20px;
+    max-width: 700px;
+    > div {
+      margin: 10px;
+    }
+  }
+  &__tipo {
+    align-items: center;
+    border-radius: 2px;
+    display: flex;
+    font-weight: bold;
+    height: 40px;
+    justify-content: center;
+    padding: 10px 30px;
+    &__AcaoAventura {
+      background-color: $AcaoAventura;
+      color: white;
+    }
+    &__Comedia {
+      background-color: $Comedia;
+      color: white;
+    }
+    &__ComediaRomantica {
+      background-color: $ComediaRomantica;
+      color: white;
+    }
+    &__Drama {
+      background-color: $Drama;
+      color: white;
+    }
+    &__SliceOfLife {
+      background-color: $SliceOfLife;
+      color: white;
+    }
+    &__Esportes {
+      background-color: $Esportes;
+      color: white;
+    }
+  }
+}

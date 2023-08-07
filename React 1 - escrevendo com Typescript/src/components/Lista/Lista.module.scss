@@ -1,0 +1,16 @@
+.listaProdutos {
+  grid-area: produtos;
+  height: 100%;
+
+  h2 {
+    text-align: center;
+    font-size: 2.25rem;
+    margin-bottom: 24px;
+  }
+
+  ul {
+    max-height: 500px;
+    overflow: auto;
+  	scrollbar-width: thin;
+  }
+}

@@ -1,0 +1,101 @@
+[
+    {
+      "title": "Bungou Stray Dogs IV",
+      "description": "A história acompanha uma agência cujos membros são portadores de poderes sobrenaturais inspirados em figuras literárias, a Agência de Detetives Armados, que também enfrentam com poderes os membros da Máfia do Porto e resolvem todos os tipos de crimes e problemas.",
+      "photo": "/assets/animes/bungouStrayDogs.png",
+      "id": 1,
+      "category": {
+        "id": 1,
+        "label": "Ação/Aventura",
+        "label2": "AcaoAventura"
+      }
+    },
+    {
+      "title": "Buddy Daddies",
+      "description": "A história acompanha Kazuki Kurusu e Rei Suwa, dois assassinos implacáveis que formaram uma dupla mesmo tendo personalidades quase opostas. Recebendo a missão de eliminar o alvo “Miri Unasaka”, os dois se surpreendem ao descobrir que se trata de uma garotinha de 4 anos de idade, cujo o pai é um dos maiores chefes do crime.",
+      "photo": "/assets/animes/buddyDaddies.jpg",
+      "id": 2,
+      "category": {
+        "id": 2,
+        "label": "Comédia",
+        "label2": "Comedia"
+      }
+    },
+    {
+      "title": "Mou Ippon!",
+      "description": "Sonoda Michi planejava se aposentar do judô após não conseguir um resultado satisfatório no campeonato nacional do ensino fundamental. Entretanto, sua melhor amiga, Sanae Takigawa, e sua mais recente rival, Eien Hyoura, a convencem de continuar a praticar o esporte no ensino médio, dando os incentivos necessários para Michi não abandonar seu sonho.",
+      "photo": "/assets/animes/mouIppon.jpg",
+      "id": 3,
+      "category": {
+        "id": 6,
+        "label": "Esportes",
+        "label2": "Esportes"
+      }
+    },
+    {
+      "title": "Ijiranaide, Nagatoro-san",
+      "description": "A história acompanha Nagatoro, uma garota do primeiro ano que vive fazendo bullying com um de seus veteranos. Por mais que o garoto não goste das brincadeiras, ele aceita elas, já que está apaixonado por Nagatora, e gosta de passar o tempo ao lado dela.",
+      "photo": "/assets/animes/nagatoro.jpg",
+      "id": 4,
+      "category": {
+        "id": 3,
+        "label": "Comédia Romântica",
+        "label2": "ComediaRomantica"
+      }
+    },
+    {
+      "title": "Vinland Saga S2",
+      "description": "Thorfinn é o filho de um dos maiores guerreiros vikings, mas, quando seu pai é morto em batalha pelo líder mercenário Askeladd, ele jura se vingar. Thorfinn então se junta ao grupo de Askeladd para desafiá-lo a um duelo, mas acaba preso no meio de uma guerra pela coroa da Inglaterra.",
+      "photo": "/assets/animes/vinland.jpg",
+      "id": 5,
+      "category": {
+        "id": 1,
+        "label": "Ação/Aventura",
+        "label2": "AcaoAventura"
+      }
+    },
+    {
+      "title": "Nokemono-tachi no Yoru",
+      "description": "A história se passa em um mundo onde humanos e meio-humanos existem. Wisteria é uma órfã que viveu sua vida de forma solitária e sombria até conhecer Marbas, um homem meio-fera que vagava sem um real propósito. Juntos os dois encontraram um motivo para serem felizes, decidindo então viajar pelo império britânico em busca de um lugar onde possam viver em paz.",
+      "photo": "/assets/animes/nokemono.jpg",
+      "id": 6,
+      "category": {
+        "id": 4,
+        "label": "Drama",
+        "label2": "Drama"
+      }
+    },
+    {
+      "title": "Kaiko Sareta Ankoku Heishi 30-Dai no Slow na Second Life",
+      "description": "Mesmo sem ser capaz de usar magia, Dariel serviu fielmente a um dos capitães mais renomados do exército do Lorde das Sombras graças as suas capacidades intelectuais e estratégicas. Entretanto, com a inesperada troca de seu líder, Dariel foi demitido e perdeu todos os privilégios que tinha. Completamente desapontado, ele decide viver em um vilarejo humano, onde passa a aceitar pedidos dos morados para manter as coisas o mais tranquilas possíveis, enquanto tenta esconder sua verdadeira identidade.",
+      "photo": "/assets/animes/kaiko.jpg",
+      "id": 7,
+      "category": {
+        "id": 5,
+        "label": "Slice of Life",
+        "label2": "SliceOfLife"
+      }
+    },
+    {
+      "title": "Gokushufudou II",
+      "description": "Gokushufudou conta a história de um ex-membro da Yakuza que abandona tudo para poder passar seus dias como um esposo do lar, fazendo trabalhos domésticos desde preparar o almoço até limpar a casa.",
+      "photo": "/assets/animes/gokushufudou.jpg",
+      "id": 8,
+      "category": {
+        "id": 2,
+        "label": "Comédia",
+        "label2": "Comedia"
+      }
+    },
+    {
+      "title": "Tomo-chan wa Onnanoko!",
+      "description": "Tomo e Jun são amigos desde a criança, mas durante o ensino médio Tomo decidiu que queria ser algo a mais para ele. O problema, no entanto, é que devido ao seu comportamento explosivo e longos anos de treinamento em karatê juntos fizeram com que Jun a enxergasse com um garoto, tratando Tomo como um de seus amigos homem. Para mudar isso, Tomo decide que irá fazê-lo reconhecer sua feminilidade e perceber que ela também é uma garota e está apaixonada por ele.",
+      "photo": "/assets/animes/tomoChan.jpg",
+      "id": 9,
+      "category": {
+        "id": 3,
+        "label": "Comédia Romântica",
+        "label2": "ComediaRomantica"
+      }
+    }
+  ]

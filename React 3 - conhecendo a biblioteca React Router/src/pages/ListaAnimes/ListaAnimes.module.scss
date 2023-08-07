@@ -1,0 +1,15 @@
+@import "styles/variaveis";
+
+.ListaAnimes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 20px;
+  &__buscador {
+    margin-top: 30px;
+  }
+  &__filtros {
+    margin-top: 50px;
+    width: 100%;
+  }
+}

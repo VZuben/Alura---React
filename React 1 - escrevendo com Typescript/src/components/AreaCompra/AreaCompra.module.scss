@@ -1,0 +1,21 @@
+.compraContainer {
+  display:flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  grid-area: finalizar-compra;
+  background-color: #877AE4;
+  box-sizing: border-box;
+  height: 285px;
+  width: 750px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 4px #0000009F;
+  padding: 24px;
+  font-size: 2.25rem;
+
+    label {
+      margin-bottom: 8px;
+      font-size: 3rem;
+    }
+}
